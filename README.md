@@ -9,6 +9,6 @@ As técnicas são as mesmas do projeto de graduação, com exceção da rede neu
 
 OS modelos de siamesa são SNN(One Against All), SNNb(One Against One), SNN_anomaly(Class Against Anomaly), SNNb_anomaly(One Against One+Anomaly)
 
-Os hiperparâmetros estão no texto do projeto de graduação, com exceção dos modelos de siamesa que irei adicionar posteriormente.
+Os hiperparâmetros estão no texto do projeto de graduação, com exceção dos modelos de siamesa que estão nas planilhas nos arquivos .ods. Cada arquivo contém três planilhas divididas em abas, sendo cada aba com o nome das classes conhecidas do sistema.
 
 Adicionalmente adiciono dois scripts: comandos.m e comandos.py para fazer algumas análises e comparações no dataset.
